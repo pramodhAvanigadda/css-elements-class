@@ -1,0 +1,47 @@
+h1{
+    background-color: blueviolet;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 60px;
+    box-shadow: 10px 10px 10px black;
+    text-shadow: 5px 5px 7px black;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    width: 470px;
+    
+}
+.ROLLSROYCE{
+    border: 5px solid black;
+    border-radius:40px;
+    box-shadow: 10px 10px 10px black;   
+}
+.BUGATTI{
+    border: 5px solid rgb(101, 40, 16);
+    border-radius:40px;
+    box-shadow: 10px 10px 10px rgb(201, 80, 10); 
+}   
+.Lamborghini{
+    border: 5px solid rgb(16, 20, 118);
+    border-radius:40px;
+    box-shadow: 10px 10px 10px rgb(63, 10, 210);  
+}
+.ferrari{
+    border: 5px solid rgb(81, 8, 8);
+    border-radius:40px;
+    box-shadow: 10px 10px 10px rgb(111, 7, 11);    
+}
+.Benz{
+    border: 5px solid rgb(180, 209, 13);
+    border-radius:40px;
+    box-shadow: 10px 10px 10px rgb(157, 222, 7);
+}
+.bmw{
+    border: 5px solid rgb(18, 28, 168);
+    border-radius:40px;
+    box-shadow: 10px 10px 10px rgb(28, 9, 154);
+}
+#chiron{
+    border: 15px dashed rgb(19, 8, 4) ;
+    border-radius: 200px;
+}
